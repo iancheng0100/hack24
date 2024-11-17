@@ -1,0 +1,42 @@
+{
+    "Parkour!": {
+        "description": "session == 1 and player_died",
+        "condition": "Die during session 1."
+    },
+    "Overthinker": {
+        "description": "",
+        "condition": "Die with over 1000 white tiles on the board."
+    },
+    "Bad Snake Player": {
+        "description": "Just a bad snake player.",
+        "condition": "Die by hitting yourself or the wall."
+    },
+    "Adventurer": {
+        "description": "",
+        "condition": "Achieve a score of over 100."
+    },
+    "Mildly Cluttered Mind": {
+        "description": "Take a break, have a walk. More haste, less speed.",
+        "condition": "Have over 100 white tiles on the board."
+    },
+    "Moderately Cluttered Mind": {
+        "description": "Keep a journal, talk with a friend. Don’t keep your thoughts to yourself, share it with the world.",
+        "condition": "Have over 500 white tiles on the board."
+    },
+    "Severely Cluttered Mind": {
+        "description": "Who is bound by the past may never shape the future.",
+        "condition": "Have over 1000 white tiles on the board."
+    },
+    "Organized Mind": {
+        "description": "",
+        "condition": "Survive 10 consecutive sessions without dying."
+    },
+    "Sometimes, memories hurt.": {
+        "description": "But that doesn't make them less valuable.",
+        "condition": "Be careful of white tiles! They deal 1 damage per contact."
+    },
+    "Journey begins!": {
+        "description": "Life is full of adventures. Where one ends, what’s left shapes who we are, and how we act. Sometimes, they occupy all our minds, and sometimes they fizzle out without a trace. May the memories, the regrets, and the life lessons guide us through what’s to come.",
+        "condition": "Session finished! What’s left of the snake is turned into white tiles, which act according to rules of Conway’s Game of Life."
+    }
+}
